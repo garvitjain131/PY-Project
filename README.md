@@ -343,7 +343,7 @@ Created as an educational resource for computer vision learning.
 
 - Issues: Open an issue on GitHub for bugs or questions
 - Discussions: Use GitHub Discussions for feature requests
-- Email: your-email@example.com
+- Email: your-garvitjain131@gmail.com
 
 ## Resources
 
